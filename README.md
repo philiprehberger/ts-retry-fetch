@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/retry-fetch)](https://www.npmjs.com/package/@philiprehberger/retry-fetch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak.
+Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak
 
 ## Requirements
 
