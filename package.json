@@ -1,0 +1,59 @@
+{
+  "name": "@philiprehberger/retry-fetch",
+  "version": "0.1.0",
+  "description": "Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "fetch",
+    "retry",
+    "timeout",
+    "interceptor",
+    "http",
+    "request",
+    "wrapper"
+  ],
+  "author": "Philip Rehberger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiprehberger/ts-retry-fetch.git"
+  },
+  "homepage": "https://github.com/philiprehberger/ts-retry-fetch#readme",
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-retry-fetch/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "sideEffects": false
+}
