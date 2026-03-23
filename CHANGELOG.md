@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Standardize README structure and badges
+
 ## 0.1.0
 
 - Initial release

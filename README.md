@@ -2,13 +2,9 @@
 
 [![CI](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/retry-fetch)](https://www.npmjs.com/package/@philiprehberger/retry-fetch)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-retry-fetch)](LICENSE)
 
 Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak
-
-## Requirements
-
-- Node.js >= 18.0.0
 
 ## Installation
 

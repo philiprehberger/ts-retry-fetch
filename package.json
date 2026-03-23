@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/retry-fetch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak",
   "type": "module",
   "main": "./dist/index.cjs",
