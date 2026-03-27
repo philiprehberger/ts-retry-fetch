@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/retry-fetch)](https://www.npmjs.com/package/@philiprehberger/retry-fetch)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-retry-fetch)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak
 
