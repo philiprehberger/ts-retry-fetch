@@ -1,8 +1,8 @@
 # @philiprehberger/retry-fetch
 
-[![CI](https://github.com/philiprehberger/retry-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/retry-fetch/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-retry-fetch/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/retry-fetch.svg)](https://www.npmjs.com/package/@philiprehberger/retry-fetch)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/retry-fetch)](https://github.com/philiprehberger/retry-fetch/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-retry-fetch)](https://github.com/philiprehberger/ts-retry-fetch/commits/main)
 
 Fetch wrapper with retries, timeout, and interceptors — zero abstraction leak
 
@@ -130,11 +130,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/retry-fetch)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-retry-fetch)
 
-🐛 [Report issues](https://github.com/philiprehberger/retry-fetch/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-retry-fetch/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/retry-fetch/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-retry-fetch/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 
