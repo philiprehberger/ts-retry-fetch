@@ -27,7 +27,7 @@ export function buildRequest(
   init: RequestInit | undefined,
   options: Pick<FetchOptions, 'baseUrl' | 'defaultHeaders'>,
 ): Request {
-  let url: string | URL;
+  let url: string | URL | Request;
 
   if (typeof input === 'string') {
     if (options.baseUrl && !input.startsWith('http://') && !input.startsWith('https://')) {
